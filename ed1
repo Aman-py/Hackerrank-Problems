@@ -1,0 +1,43 @@
+#Airthmetic Operators
+print(3.5//2)
+
+
+
+
+#Assingment Operators
+
+
+#Comparison Operators
+
+
+#Logical Operators
+print(2 and 3)
+print(2 or 3)
+print(not 0)
+print(-2 and 3)
+print(-2 or 3)
+print(not -2)
+print(-2 and -3)
+print(-2 or -3)
+#Bitwise Operators
+a = 7
+b = 5
+print(a|b)
+print(a&b)
+print(a^b)
+#Identity Operators
+
+is
+not is
+
+#Membership Operators
+
+in
+not in
+
+
+#Type Specific Method
+
+
+str = 'agarwal'
+
